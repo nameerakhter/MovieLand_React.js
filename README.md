@@ -25,3 +25,9 @@ Certainly, here's the "Features" section for your React application based on the
 - **Effortless Movie Discovery**: With Movie Land, exploring and enjoying movies becomes effortless. Discover, explore, and enjoy your favorite films with ease.
 
 These features make Movie Land the perfect platform for movie enthusiasts and anyone in search of their next cinematic experience.
+
+## Technologies Used
+
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
