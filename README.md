@@ -1,5 +1,6 @@
 # MOVIE LAND ReactJs 
-<img width="1280" alt="movie" src="https://github.com/nameerakhter/MovieLand_React.js/assets/120779958/1bc90474-bff5-4aec-b79f-c782b15fa46b">
+<img width="1148" alt="movie" src="https://github.com/nameerakhter/MovieLand_React.js/assets/120779958/5d134f9c-007c-454f-9fb1-b6568494d43f">
+
 <hr>
 
 # Description
